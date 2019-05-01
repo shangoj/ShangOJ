@@ -1,6 +1,6 @@
 ---
-description: 本章节为ShangOJ概览
+description: This is the first edition development document of shangoj.
 ---
 
-# 概览
+# What is this?
 
